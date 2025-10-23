@@ -1,6 +1,9 @@
 # Swag Labs Project
 
-[https://www.saucedemo.com](https://www.saucedemo.com)
+This project focuses on testing the [Swag Labs](https://www.saucedemo.com) website — a demo e-commerce platform simulating real-world online shopping experiences.
+It combines **manual** and **automated testing** to ensure the application’s functionality and usability.
+
+---
 
 ## Manual Testing
 
