@@ -11,7 +11,6 @@ Includes ---
 
 * User Stories
 * Test Plan
-* Test Strategy
 * Test Cases Creation
 * Test Case Execution
 * Bug Reports
