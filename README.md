@@ -13,7 +13,7 @@ Comprehensive testing framework for the [Swag Labs](https://www.saucedemo.com/) 
 - Bug Reports & Test Summary
 
 ### 🤖 Automated Testing
-Built with **Java**, **Selenium WebDriver**, **TestNG**, and **Maven** using a simple class-based structure suitable for beginners.
+Built with **Java**, **Selenium WebDriver**, **TestNG**, and **Maven**.
 
 ---
 
