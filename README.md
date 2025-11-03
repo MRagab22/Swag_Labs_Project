@@ -62,15 +62,15 @@ Swag_Labs/
 ├── src/
 │   ├── main/java/
 │   └── test/java/tests/
-│       ├── CartTests.java
-│       ├── CheckoutTests.java
-│       ├── EndToEndTests.java
-│       ├── HomeTests.java
-│       ├── IntegrationTests.java
 │       ├── LoginTests.java
+│       ├── HomeTests.java
 │       ├── ProductDetailTests.java
 │       ├── ProductDetailTests_2.java
+│       ├── CartTests.java
 │       ├── SidebarTests.java
+│       ├── CheckoutTests.java
+│       ├── IntegrationTests.java
+│       ├── EndToEndTests.java
 │       └── SystemTests.java
 ├── target/
 ├── .gitignore
