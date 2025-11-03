@@ -1,4 +1,4 @@
-# 🧪 Swag Labs Project
+#  Swag Labs Project
 
 ## 🧾 Description
 Comprehensive testing framework for the [Swag Labs](https://www.saucedemo.com/) e-commerce platform, combining **manual and automated testing** with **200+ test cases** to validate core functionalities including authentication, product browsing, cart management, and checkout processes.
